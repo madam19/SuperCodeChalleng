@@ -1,0 +1,49 @@
+.black {
+    background-color: #000;
+    color: #fff;
+}
+
+.presents {
+    font-family: 'Work Sans', LarishNeue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 880px;
+    position: relative;
+}
+
+.California {
+    font-size: 800%;
+}
+
+.Calling {
+    font-size: 800%;
+    color: #000;
+    text-shadow: 2px 2px 3px #fff;
+    -webkit-text-stroke: white;
+    -webkit-text-stroke-color: black;
+}
+
+.RSVP {
+    position: relative;
+    top: -150px;
+    left: 780px;
+    border-color: white 1px;
+    color: white;
+}
+
+.bear {
+    position: relative;
+    top: -210px;
+    left: 20px;
+}
+
+.action1 {
+    width: 200px;
+    height: 150px;
+    top: -30px;
+    left: 850px;
+    position: relative;
+}
